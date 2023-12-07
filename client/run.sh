@@ -1,0 +1,1 @@
+./bin/initiator ./bin/initiator.cfg SSL

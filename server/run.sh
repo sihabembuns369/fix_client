@@ -1,0 +1,1 @@
+./bin/acceptor ./bin/acceptor.cfg SSL

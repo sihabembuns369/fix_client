@@ -1,0 +1,1 @@
+ g++ -std=c++11 ./src/**.cpp -o ./bin/acceptor  -lquickfix -fexceptions -lpthread -finline-functions
